@@ -1,0 +1,29 @@
+body{
+    background: grey;
+    align-content: center;
+    text-align: center;
+    
+    
+    
+    
+}
+.header{
+    background: turquoise;
+}
+.container{
+
+}
+li{
+    float: left;
+}
+.navbar-form{
+
+}
+.footer{
+    clear: both;
+    background: gray;
+
+}
+
+
+

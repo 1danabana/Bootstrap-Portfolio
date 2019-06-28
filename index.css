@@ -3,9 +3,6 @@ body{
     align-content: center;
     text-align: center;
     
-    
-    
-    
 }
 .header{
     background: turquoise;
@@ -16,8 +13,9 @@ body{
 li{
     float: left;
 }
-.navbar-form{
-
+.form-control{
+   align-content: right;
+   
 }
 .footer{
     clear: both;

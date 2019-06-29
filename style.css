@@ -1,18 +1,28 @@
 body{
-    background: grey;
+   
     align-content: center;
     text-align: center;
-    
+       
 }
 .header{
-    background: turquoise;
+    background: #59aaa4;
 }
-.container{
+h1{
 
 }
-li{
-    float: left;
+h4{
+  
 }
+.container{
+    
+}
+.userbar{
+    
+}
+.navbar-inverse{
+   
+}
+
 .form-control{
    align-content: right;
    
@@ -20,6 +30,7 @@ li{
 .footer{
     clear: both;
     background: gray;
+    padding: 50px;
 
 }
 

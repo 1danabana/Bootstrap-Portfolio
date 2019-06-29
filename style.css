@@ -1,31 +1,48 @@
 body{
-   
+    
     align-content: center;
     text-align: center;
+    backgr
        
 }
-.header{
+.prime-head{
     background: #59aaa4;
+    float: left;
+    
 }
-h1{
+.mid-head{
+    background: #59aaa4;
+    padding: 10px;
 
 }
 h4{
   
 }
 .container{
+    text-align: center;
+    align-content: center;
     
 }
 .userbar{
     
 }
-.navbar-inverse{
+.navbar-default{
+    border: 10px;
+    text
+    
    
 }
-
+.col-md-8{
+    text-align: center;
+    align-content: center;
+}
 .form-control{
    align-content: right;
    
+}
+.form-group{
+    margin-left: 25%;
+    margin-right: 25%;
 }
 .footer{
     clear: both;
@@ -33,6 +50,20 @@ h4{
     padding: 50px;
 
 }
+.navbar-nav{
+    float: right;
+    font-size: 18px;
+    margin-top: 12px;
+}
+@media screen and (min-width: 500px){
+    .navbar-nav{
+        float: right;
+        font-size: 18px;
+        margin-top: 12px;
+        
+    }
+}
+
 
 
 

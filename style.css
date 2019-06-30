@@ -21,8 +21,8 @@ body{
     padding: 10px;
 
 }
-h4{
-  
+hr{
+    background: #59aaa4;
 }
 .container{
     text-align: center;
@@ -70,9 +70,7 @@ ul{
 .h1{
     color: #59aaa4
 }
-.line{
-    background: #59aaa4;
-}
+
 @media screen and (min-width: 500px){
     .navbar-nav{
         float: right;

@@ -9,8 +9,11 @@ body{
     background: #59aaa4;
     float: left;
     display: inline-block;
-    padding: 7px;
-   
+    height: 40px;
+   color: #ffffff
+    
+}
+.col-md-4{
     
 }
 .mid-head{
@@ -64,11 +67,11 @@ ul{
     
     
 }
-.col-md-8{
-    margin-left: 12%;
+.h1{
+    color: #59aaa4
 }
-row{
-    
+.line{
+    background: #59aaa4;
 }
 @media screen and (min-width: 500px){
     .navbar-nav{

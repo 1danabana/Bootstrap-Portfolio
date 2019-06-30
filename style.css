@@ -9,6 +9,7 @@ body{
     background: #59aaa4;
     float: left;
     display: inline-block;
+    padding: 7px;
    
     
 }
@@ -23,21 +24,16 @@ h4{
 .container{
     text-align: center;
     align-content: center;
-    
-}
-.userbar{
-    
+    border: thin solid black;
+    float: left;
 }
 .navbar-default{
-    border: 10px;
-    text
-    
-   
+    border: 10px
 }
-.col-md-8{
-    text-align: center;
-    align-content: center;
+.userbar{
+    width: 100%;
 }
+
 .form-control{
    align-content: right;
    
@@ -62,8 +58,16 @@ ul{
 }
 .project{
     background: #000;
-    height: 150px;
-    /* margin: 10px; */
+    height: 250px;
+    width: 250px;
+    margin: 10px;
+    
+    
+}
+.col-md-8{
+    margin-left: 12%;
+}
+row{
     
 }
 @media screen and (min-width: 500px){
@@ -74,7 +78,6 @@ ul{
         
     }
 }
-
 
 
 
